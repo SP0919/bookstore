@@ -1,0 +1,44 @@
+[
+    {
+        "title": "All",
+        "slug": "all",
+        "image": "all.png",
+        "id": 1
+    },
+    {
+        "title": "Laundry",
+        "slug": "laundry",
+        "image": "laundry.png",
+        "id": 2
+    },
+    {
+        "title": "DryClean",
+        "slug": "dryclean",
+        "image": "dry_clean.png",
+        "id": 3
+    },
+    {
+        "title": "Tailor",
+        "slug": "tailor",
+        "image": "tailor.png",
+        "id": 4
+    },
+    {
+        "title": "Ironing",
+        "slug": "ironing",
+        "image": "ironing.png",
+        "id": 5
+    },
+    {
+        "title": "Bag Clean",
+        "slug": "bagclean",
+        "image": "bag_clean.png",
+        "id": 6
+    },
+    {
+        "title": "Shoes Clean",
+        "slug": "shoeclean",
+        "image": "shoe_clean.png",
+        "id": 7
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Suits",
+        "slug": "dryclean",
+        "image": "suits.png"
+    },
+    {
+        "title": "Jacket",
+        "slug": "dryclean",
+        "image": "jacket.png"
+    },
+    {
+        "title": "Shorts",
+        "slug": "dryclean",
+        "image": "shorts.png"
+    },
+    {
+        "title": "Pants",
+        "slug": "dryclean",
+        "image": "pants.png"
+    },
+    {
+        "title": "T-shit",
+        "slug": "dryclean",
+        "image": "tshirt.png"
+    }
+]
